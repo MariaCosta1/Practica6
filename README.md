@@ -2,7 +2,7 @@
 
 ## Objetivo de la práctica
 
-Dado un desarrollo de Spring Boot, es necesario anhadir tests a las siguientes clases:
+Dado un desarrollo de Spring Boot, es necesario añadir tests a las siguientes clases:
 
 - DNI & Telefono (Unit Tests) (Cada clase tiene un metodo y varias casuisticas para probar)
 - ProcessController (E2E Tests) (2 endpoints)
